@@ -12,6 +12,6 @@ spinnaker:
           defaultVmDetails: abcd
           defaultgitAccount: ijkl
     repositories:
-      example-repo:
-        url: https://raw.githubusercontent.com/spinnaker-plugin-examples/examplePluginRepository/master/repositories.json
+      opsmx-repo:
+        url: https://raw.githubusercontent.com/opsmx/spinnakerPluginRepository/master/repositories.json
 ```
