@@ -1,7 +1,9 @@
 This is an opsmx plugin repository that references all the plugins.
 
 This custom stage plugin involves 2 microservices.
+
      1. Orca
+    
      2. Deck
 
 1.  Orca configuration
