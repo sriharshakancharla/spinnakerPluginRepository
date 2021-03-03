@@ -1,2 +1,2 @@
-# spinnaker-plugins
-spinnaker-plugins
+# spinnakerPluginRepository
+spinnakerPluginRepository
