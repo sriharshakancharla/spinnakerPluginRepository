@@ -15,18 +15,18 @@ spinnaker:
         enabled: true
         version: 1.0.1
         config:
-          defaultVmDetails: {
+          defaultVmDetails: '{
                               "username": "ubuntu",
                               "password": "xxxxx",
                               "port": 22,
                               "server": "xx.xx.xx.xx"
-                            }
-          defaultgitAccount: {
+                            }'
+          defaultgitAccount: '{
                                 "artifactAccount": "my-github-artifact-account",
                                 "reference": "https://api.github.com/repos/opsmx/Pf4jCustomStagePlugin/contents/script.sh",
                                 "type": "github/file",
                                 "version": "main"
-                              }
+                              }'
     repositories:
       opsmx-repo:
         url: https://raw.githubusercontent.com/opsmx/spinnakerPluginRepository/master/repositories.json
