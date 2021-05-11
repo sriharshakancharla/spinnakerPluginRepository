@@ -21,5 +21,20 @@
         "url": "https://github.com/opsmx/Pf4jCustomStagePlugin/releases/download/v1.0.2/pf4jCustomStagePlugin-v1.0.2.zip"
       }
     ]
+  },
+  {
+    "id": "com.opsmx.gate.bulksave.enabled.plugin",
+    "description": "A PF4J-based plugin that provides a bulk save api rest endpoint.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-05-11T16:20:59.469168Z",
+        "requires": "gate>=0.0.0",
+        "sha512sum": "ce7612c0f4474b581bd9eb60cdc1a483320e1a53762d467953d3d21a2f48615dd6299b81ac0967db37b396b6442af2c6b77ee2cacc31e2bb3adf4de3ae874e81",
+        "state": "",
+        "url": "https://github.com/opsmx/Pf4jBulkSaveApiPlugin/releases/download/v1.0.1/pf4jBulkSaveApiPlugin-v1.0.1.zip"
+      }
+    ]
   }
 ]
