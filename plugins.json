@@ -31,7 +31,7 @@
         "version": "1.0.1",
         "date": "2021-05-11T16:20:59.469168Z",
         "requires": "gate>=0.0.0",
-        "sha512sum": "ce7612c0f4474b581bd9eb60cdc1a483320e1a53762d467953d3d21a2f48615dd6299b81ac0967db37b396b6442af2c6b77ee2cacc31e2bb3adf4de3ae874e81",
+        "sha512sum": "8aaca7e441ef86af4ea666a5c011c738b919ff2c4b3a45cc4b85a977f4daab425e1a3720b3fdaa443cd91a84508a33fbfee17ec7ae4e13db8c63f3a200df122e",
         "state": "",
         "url": "https://github.com/opsmx/Pf4jBulkSaveApiPlugin/releases/download/v1.0.1/pf4jBulkSaveApiPlugin-v1.0.1.zip"
       }
