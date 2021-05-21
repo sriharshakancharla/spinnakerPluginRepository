@@ -19,14 +19,21 @@
         "sha512sum": "5f85ac0f02183caa8460546b35e2345c7b1314b1978e31511b57662aa7dcb19207044ce838525aeab6da31e39253cc0ce24b80a5852c98d1c3acbd4025a40c66",
         "state": "",
         "url": "https://github.com/opsmx/Pf4jCustomStagePlugin/releases/download/v1.0.2/pf4jCustomStagePlugin-v1.0.2.zip"
-      },
+      }
+    ]
+  },
+  {
+    "id": "Opsmx.VerrificationGatePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
       {
-        "version": "1.0.3",
-        "date": "2021-05-19T16:20:59.469168Z",
-        "requires": "echo>=0.0.0",
-        "sha512sum": "e4a0a8fa7de1222a681a587192850d2d74c6dfadcddba9f4d2d98f813ed26a289d8aaa5401c26403b709b15a7239be8b5c3f89b9d7753d059ff978780d1ce1e1",
+        "version": "1.0.1",
+        "date": "2021-05-21T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "78245fc5eb2c2b799d3f2369a7ed03bf01500d00ef7af5f13190d704d22c0defbca8078ef9a5fd137538607c9b85cc6cefbcaac7ff7217c57270cd4a3ae7af23",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/pf4jCustomStagePlugin-v1.0.3-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/pf4jCustomStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
