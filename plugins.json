@@ -34,6 +34,14 @@
         "sha512sum": "78245fc5eb2c2b799d3f2369a7ed03bf01500d00ef7af5f13190d704d22c0defbca8078ef9a5fd137538607c9b85cc6cefbcaac7ff7217c57270cd4a3ae7af23",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/pf4jCustomStagePlugin-v1.0.1-SNAPSHOT.zip"
+      },
+      {
+        "version": "1.0.2",
+        "date": "2021-05-24T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "819387ce0d67f54e904062e897a928ee4cdbeef70b5d2978e3e117949985f349f9c4028f3a6747d6ac82462e846e83eb595cadd2f65744e3d788e3eff2850d75",
+        "state": "",
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.4/pf4jCustomStagePlugin-v1.0.2-SNAPSHOT.zip"
       }
     ]
   },
