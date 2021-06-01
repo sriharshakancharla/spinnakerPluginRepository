@@ -37,26 +37,26 @@
       },
       {
         "version": "1.0.2",
-        "date": "2021-05-24T16:20:59.469168Z",
+        "date": "2021-06-01T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "819387ce0d67f54e904062e897a928ee4cdbeef70b5d2978e3e117949985f349f9c4028f3a6747d6ac82462e846e83eb595cadd2f65744e3d788e3eff2850d75",
+        "sha512sum": "7f4e3c8ddf60e7a32e345c7925ea0cdf206bfd2e9b4f9ac74d1e4c338c62a2bfc78e55f2a07c8aa17635a9ba8e9d637e611b028e69afafc417866e50ea872e8e",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.4/pf4jCustomStagePlugin-v1.0.2-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.4/pf4jVerificationGatePlugin-v1.0.2-SNAPSHOT.zip"
       }
     ]
   },
   {
-    "id": "Opsmx.PolicyStagePlugin",
+    "id": "Opsmx.PolicyGatePlugin",
     "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
     "provider": "https://github.com/opsmx",
     "releases": [
       {
         "version": "1.0.1",
-        "date": "2021-05-26T16:20:59.469168Z",
+        "date": "2021-06-01T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "2899b27f6c9051a859bf83910b76bf27a48a2a241a93dd257afe4668e4acf38153893f06329dc70248ece3a9ef35dce60df6ccf0f4eb4f69e53a96875f8f89b1",
+        "sha512sum": "c7112357e3ceeb0f9302ae1ff37b714dc930d1adec2fee57e730886fd4e9278bad6a085d3e632d302d80bb1a8b604b9774f4e8e5c64909d6ef5b3b6afeb14284",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/pf4jCustomStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/pf4jPolicyGatePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
