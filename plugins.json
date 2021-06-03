@@ -37,9 +37,9 @@
       },
       {
         "version": "1.0.2",
-        "date": "2021-06-02T16:20:59.469168Z",
+        "date": "2021-06-03T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "6d54546c61ab766ed20a6d930d9878c2ca2d9ed97aecea46a4daaf9c200c3e1ff7612ea79a0b6c155a40372ccdea47aa3390dd96ad8d92dbeb57714bfff85a02",
+        "sha512sum": "d6dbf5f101ef11888acbc436610b211b32cdbc7b65be10c8c2fb13ccb188058357c5bdb6b37ce5a42d6e55cd3cad6a1a27b58787c8cc650f84328fab4feb705f",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.4/pf4jVerificationGatePlugin-v1.0.2-SNAPSHOT.zip"
       }
