@@ -47,9 +47,9 @@
         "version": "1.0.3",
         "date": "2021-06-14T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "0c8f5eb0d6cb519d9b0727067bb1a0d7c18803c98cc61f697a581e32a8d938d3509cc1534f8bba6a231df94eb9f49aaeba89a9178253b27cddd17cc05f0f9ef8",
+        "sha512sum": "eb973623b94d7f316fe79294829477ec317da9cdf5b3e741d7ae4f2891caa2321bce601c5693dc10b33d40059a9ac7f20352cbd95b4cf875b06a98ff6e7ab1e9",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/pf4jVerificationPlugin-v1.0.3-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/pluginVerificationStage-v1.0.3-SNAPSHOT.zip"
       }
     ]
   },
