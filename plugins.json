@@ -29,11 +29,11 @@
     "releases": [
       {
         "version": "1.0.1",
-        "date": "2021-05-26T16:20:59.469168Z",
+        "date": "2021-06-21T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "84d0722247cb0350bf7e61ebf99ca3fc4f93b2a88626d7e74eef510798239b38f01991e704a141e11d773c04806ea8fa74eca551b7f2945add27f8054cfd40bb",
+        "sha512sum": "1ef6766c27830539be17bbc0405d9975230161616ff2f96a9163f6da7a5fcf84b4896222427f1e89cbcfac1e2107ea805ba96e2a420da25804cd939e74d47445",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/pf4jCustomStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/verificationPlugin-v1.0.1-SNAPSHOT.zip"
       },
       {
         "version": "1.0.2",
@@ -42,14 +42,6 @@
         "sha512sum": "553d919b766464e0f6646e916c510d5de756a914af71b469ef1d3135ad4763685b1e2a07947256129cae981e47b228683e8ccd860c43442a1af086cdc97600d1",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.4/pf4jVerificationPlugin-v1.0.2-SNAPSHOT.zip"
-      },
-      {
-        "version": "1.0.3",
-        "date": "2021-06-14T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "9408fb87bf8140e4c8e82ebb0752fdb49d882779efd5ee477c929196c84412f7fb450b21db3f82380fe033744dcd830c73a08fd4fdc06b14a41a0e0a9db7852d",
-        "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/VerificationPlugin-v1.0.3-SNAPSHOT.zip"
       }
     ]
   },
