@@ -54,9 +54,9 @@
         "version": "1.0.1",
         "date": "2021-06-28T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "7a5243bb9b3266b1bea9e7db21f0e8fb79556719f93f84f379a6be2d6f39b6a5cf7599c674306c976f3f2a9908f0dde6a49317b4a1cd4059cff71e0896d3618c",
+        "sha512sum": "58c07c154b9adbcfcb2c7190200696623103944f8a38750c48ca9521d67401704ed1ef25d8010969645ac3961677b8ae6b9ddb2b87493520b42645879fb0e83a",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/pf4jVisibilityApprovalPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/pf4jVisibilityApprovalPlugin-v1.0.1.zip"
       }
     ]
   },
