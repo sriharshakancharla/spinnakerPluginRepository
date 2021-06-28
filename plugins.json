@@ -69,9 +69,9 @@
         "version": "1.0.1",
         "date": "2021-06-28T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "aa77842df9e5184dec3fcfb0a02fe3b0a5c2337507fed0f5317bb5d9c43c130058da5bd4eb1f5ed097da45a9a8631a4582b66ff450a53834ef3c1535477fbbdc",
+        "sha512sum": "2a14525704569e0d5bf5fcfee2b6331064dbc4e471d73326ff8ff690b6d5a9e0b621faf1e2ded4eaa0b592d32bd2e6cebe9d5e27e3a65a1830056477b05e6482",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/policyGatePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/pf4jPolicyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
