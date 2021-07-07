@@ -46,17 +46,32 @@
     ]
   },
   {
+    "id": "Opsmx.TestVerificationGatePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-06-21T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "1ef6766c27830539be17bbc0405d9975230161616ff2f96a9163f6da7a5fcf84b4896222427f1e89cbcfac1e2107ea805ba96e2a420da25804cd939e74d47445",
+        "state": "",
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/verificationPlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
+  },
+  {
     "id": "Opsmx.VisibilityApprovalPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
     "provider": "https://github.com/opsmx",
     "releases": [
       {
         "version": "1.0.1",
-        "date": "2021-07-02T16:20:59.469168Z",
+        "date": "2021-07-07T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "4ecf74a32772718a79ede733e22ba79c464008d1e6485d0e701cd316a34860c6765473d92d1dfe49c3e3f9823695829117d93006c21e8479d26485beee1a7f9a",
+        "sha512sum": "32d2cabf533fd6ca841a501bcda251bfd845d644dc1f73a40e16bd579f0a0d0900d60046662bd3434633598f6faef330c5fddae2b13cc13be6574dbd264748d0",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/VisibilityApproval-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/pf4jApprovalPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
