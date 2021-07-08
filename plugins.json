@@ -67,11 +67,11 @@
     "releases": [
       {
         "version": "1.0.1",
-        "date": "2021-07-07T16:20:59.469168Z",
+        "date": "2021-07-08T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "9133951a3be7ce15b2b9647b529d161d590c17078b0fe161e548cf099c3f748486a4cace65a5b4d81641aeb4786286989c2959306ed9c1b30630cc0dfe232734",
+        "sha512sum": "61ab969c3311c85951d6c2149005b790a16915726f249c4f0c317d47f458910f95c2a4f01aa08d84055598119e348673a9ad36cc1eff738ec748aae4d91d64e3",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/pf4japprovalPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/visibilityApprovalPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
