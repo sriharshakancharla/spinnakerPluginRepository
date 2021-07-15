@@ -52,11 +52,11 @@
     "releases": [
       {
         "version": "1.0.1",
-        "date": "2021-07-08T16:20:59.469168Z",
+        "date": "2021-07-15T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "1d2531aa8a2afd4f11ca475bec4e00604e424b0ec742c9224b250825d66064f489e098aac6ef770ff2e0f4811851e06c7c6d0ad9ce50f29fe9491cd50df5fa1f",
+        "sha512sum": "e9967dd4a8900b5b70fb238e96ec4fd2cd2e02ad79ea4c659ca5085933e76bd70356e12fbead8e57488a4c3b32ea77832e2e4fd4c8f5c7baa852ea390fde3221",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.7/pf4jTestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.7/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -82,11 +82,11 @@
     "releases": [
       {
         "version": "1.0.1",
-        "date": "2021-06-09T16:20:59.469168Z",
+        "date": "2021-07-15T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "35f2b135c7417ce4389d3fe9d1eed33964b1534f35c9f47c8a943ff773c1eb385a064908b9866328f56f4d196cd9c66ba0bc89ce0563fb413a67664207f800cc",
+        "sha512sum": "41b2eeb85137b34289635c6a7d0223d34bca07620677e647a8d5cf2f66c916cfcc12dbc7dcf0c993678f03b85bb66731183d2c68dc65df403c9b537d7fdcf4f8",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/pf4jPolicyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/PolicyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
