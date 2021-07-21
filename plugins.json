@@ -91,6 +91,21 @@
     ]
   },
   {
+    "id": "Salesforce.FitResultsSpringLoaderPlugin",
+    "description": "Plugin for creating custom spinnaker stage to perfom deployment of machine image, fetch the fit test run ID and display the FIT results in a single stage",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+        {
+            "version": "1.0.1",
+            "date": "2021-07-20T22:34:54.426686Z",
+            "requires": "orca>=0.0.0,deck>=0.0.0",
+            "sha512sum": "230028a43940f1ff3ecdf20025e8c8d16c88d8fa8a50ac3c16e8cd367a0da17654f9f03096d303521be8633bb896c8832d1187ffd75409c5202cc46b8b183dec",
+            "preferred": false,
+            "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.8/SingleStageFitResults-0.0.19.zip"
+        }
+    ]
+  },
+  {
     "id": "com.opsmx.gate.bulksave.enabled.plugin",
     "description": "A PF4J-based plugin that provides a bulk save api rest endpoint.",
     "provider": "https://github.com/opsmx",
