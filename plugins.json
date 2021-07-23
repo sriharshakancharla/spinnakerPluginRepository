@@ -31,9 +31,9 @@
         "version": "1.0.1",
         "date": "2021-06-21T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "bc8c788923a1c5f644d97107b529a9354ceb0956bd78e70cd7fd88599d1c64ed314e91f2de0713fc07116f6d03ae71f8c1fc5008e682fd638fb6ce970f0aa942",
+        "sha512sum": "a480a9ed79643a3be50888647052cec53576ac7dc40f6dfd6ba316e5252e782252474b36e03a02018a9e5c94daadeec853b01b180d5afcb851aadcfdc95abe56",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/pf4jVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/verification-v1.0.1-SNAPSHOT.zip"
       },
       {
         "version": "1.0.2",
@@ -54,9 +54,9 @@
         "version": "1.0.1",
         "date": "2021-07-15T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "e9967dd4a8900b5b70fb238e96ec4fd2cd2e02ad79ea4c659ca5085933e76bd70356e12fbead8e57488a4c3b32ea77832e2e4fd4c8f5c7baa852ea390fde3221",
+        "sha512sum": "03ea00f86d6a58b8a0963c33c0d3f898ccd54a6277023fc4844f41163f07befd69702ed85db338435d9b0fb1001353d74e13b48cc8cf926c4c54d8c926edfe7d",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.7/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.7/testVerification-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -84,25 +84,10 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "32ec694afb65370695e871e0da3ec4c1b64b7182e737bada4ab769968c574d71206ee76fcf39284db05ca13f7421d68c0262ca1444f7562ce194a68a420bdd7c",
+        "sha512sum": "4e8982f7c56a03ee1268e206705c97c22cd756019a392117bdda562725856a0c39fc7c73d2968243ca1e8225b2a0625b0aaee6f5050610b27a443974109bf66d",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/pf4jPolicyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/policy-v1.0.1-SNAPSHOT.zip"
       }
-    ]
-  },
-  {
-    "id": "Salesforce.FitResultsSpringLoaderPlugin",
-    "description": "Plugin for creating custom spinnaker stage to perfom deployment of machine image, fetch the fit test run ID and display the FIT results in a single stage",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-        {
-            "version": "1.0.1",
-            "date": "2021-07-20T22:34:54.426686Z",
-            "requires": "orca>=0.0.0,deck>=0.0.0",
-            "sha512sum": "230028a43940f1ff3ecdf20025e8c8d16c88d8fa8a50ac3c16e8cd367a0da17654f9f03096d303521be8633bb896c8832d1187ffd75409c5202cc46b8b183dec",
-            "preferred": false,
-            "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.8/SingleStageFitResults-0.0.19.zip"
-        }
     ]
   },
   {
