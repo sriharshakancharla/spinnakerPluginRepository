@@ -31,7 +31,7 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "e0145ae88ee97996530a7d978a438c93bf67d2fb2177ea2ccc8f6ba1d45bf382d037dade9a65a66e15cb6427d11398972f7c71f3c1e27d2234a9e6b0bd12006a",
+        "sha512sum": "352253e9b2ab5a83c209df726c9e41f718b62a2e9b587a534235a835ddb40ed7921050dbebb47d51f7a64e4af38e2cb785fd034e0d40908d980fab61173d4282",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/pf4jVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       },
@@ -54,7 +54,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "90029f7bf7eec86e0c373be8a67a119af3893504ddee3cdba455d2b69a6bb1f6eb8ffc0f0a1c845641d058d2f4a14a8cc58644d7d8c3fd2590648e3c89f26259",
+        "sha512sum": "12e86130c9c0d760a8b4b4dc2b4a0a8e7f644ae2cc52b05e594889363285dc9fb223fb56b92fd175533a85f9e4b4536f1d5b166b20d12b5214ba9199a841ce60",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.7/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
@@ -84,7 +84,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "ec86269ea1a3d6ed4b633a162ac420da4bc6ec6b9c0b4b04540c5dc15106151dda23e215fd319984894708ab772ad30fad422b2aa88d638e340cf3d86bac5f00",
+        "sha512sum": "8de60f3686afbb3f9bdcb0577011ff48025a30607b1c700ac60d8fc5ec9fa53babe9aef07f95f6c1c6dfe3b33f44b071d19184ce5d1fa337b92aceb18435ee47",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/PolicyPlugin-v1.0.1-SNAPSHOT.zip"
       }
