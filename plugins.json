@@ -54,7 +54,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "6e53447dc023cf41983b1331f23e972d51247aa4ae2d29ae974b7fa4286d353604d16258c859b029caa6285b356431937dc6729ca2a1d92a617a72ab3bfc42a4",
+        "sha512sum": "b182e33885b81134379b91ab0614aa8d17a1aaff54dff0a433be2b483efd51420a70f89e93eb879a231a03bb68fcb9a973d524457ee1f746ac651e035c0e38c7",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.7/pf4jTestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
