@@ -84,9 +84,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "ca9231bb3559e5ec8227adfe7859e35b625a8258d3e33d603946cd1dce3affc940856f3048ff020b0f75228c6637fa8896ed05678039dd7810346d12bcf3fae7",
+        "sha512sum": "6ab013bc467701db93315afe220d6a1a35fff79b24424b478a7597c4824ab3ff06358cb6785e7966b2b6d41cd2ac211fa4897225da328bd5ae7219fa16b6254b",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/pf4jPolicyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
