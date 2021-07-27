@@ -31,9 +31,9 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "8df1ace6c7c86c0d6f537277b8bece00e3c9f96a12be98ad96702e7dae8a9fea5b7a6ad1e9c6daa83f98e348e30fffbb1edb45eb12278b1879a5ca2d100a8d8a",
+        "sha512sum": "596679e10f450d110e5121492bad71a173ed1099e95f71f3fc4dd5d630f94e21c3528b0d3d31c839454bc8294e22a942e82d9c911d9a54be65c948fd3691464d",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/pf4jVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       },
       {
         "version": "1.0.2",
@@ -54,9 +54,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "12e86130c9c0d760a8b4b4dc2b4a0a8e7f644ae2cc52b05e594889363285dc9fb223fb56b92fd175533a85f9e4b4536f1d5b166b20d12b5214ba9199a841ce60",
+        "sha512sum": "6e53447dc023cf41983b1331f23e972d51247aa4ae2d29ae974b7fa4286d353604d16258c859b029caa6285b356431937dc6729ca2a1d92a617a72ab3bfc42a4",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.7/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.7/pf4jTestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -84,9 +84,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "1e7f2267499de3f8b823c3634fd03461a2c3e59eba960f4e9b1d49c24e9d7d6e9f5464b82f6b64241753451a9a48202ce4ecf5aa8681359888d712e9ebd31092",
+        "sha512sum": "ca9231bb3559e5ec8227adfe7859e35b625a8258d3e33d603946cd1dce3affc940856f3048ff020b0f75228c6637fa8896ed05678039dd7810346d12bcf3fae7",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/PolicyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/pf4jPolicyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
