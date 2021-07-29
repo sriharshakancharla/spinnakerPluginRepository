@@ -33,15 +33,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "596679e10f450d110e5121492bad71a173ed1099e95f71f3fc4dd5d630f94e21c3528b0d3d31c839454bc8294e22a942e82d9c911d9a54be65c948fd3691464d",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.3/pf4jVerificationPlugin-v1.0.1-SNAPSHOT.zip"
-      },
-      {
-        "version": "1.0.2",
-        "date": "2021-06-10T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "553d919b766464e0f6646e916c510d5de756a914af71b469ef1d3135ad4763685b1e2a07947256129cae981e47b228683e8ccd860c43442a1af086cdc97600d1",
-        "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.4/pf4jVerificationPlugin-v1.0.2-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.0/pf4jVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -56,7 +48,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "5de8d96e7d356557ab71d81bc3298aad3d5712bf2a833adb1a8fa72e511e8dac5dd6b2b909baaa2cfb0516c91ea84a910e406ced83b0fd07321ffd537b41ceb8",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.7/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.0/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -71,7 +63,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "c2caa1dd3b1310eaafe0e01b3054c30b40480a84fce9ba19b09ee40776eec566faa4c413b4c087574f86ac08b9049717acf87addef115800b07e4f623dd74c33",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/ApprovalPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.0/ApprovalPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -87,21 +79,6 @@
         "sha512sum": "2abb3d664e237cf8d981ee740046393ddba02edbaae8d0fc4ca1f3c464e5d0ce1f58efaa5860896c99cadd4bc4132926032112c72433f1bf0726c039b11890ac",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/PolicyPlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
-  {
-    "id": "com.opsmx.gate.bulksave.enabled.plugin",
-    "description": "A PF4J-based plugin that provides a bulk save api rest endpoint.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-05-11T16:20:59.469168Z",
-        "requires": "gate>=0.0.0",
-        "sha512sum": "8aaca7e441ef86af4ea666a5c011c738b919ff2c4b3a45cc4b85a977f4daab425e1a3720b3fdaa443cd91a84508a33fbfee17ec7ae4e13db8c63f3a200df122e",
-        "state": "",
-        "url": "https://github.com/opsmx/Pf4jBulkSaveApiPlugin/releases/download/v1.0.1/pf4jBulkSaveApiPlugin-v1.0.1.zip"
       }
     ]
   }
