@@ -69,9 +69,9 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "c8609c16e8e28aae35bffc85a317bfce9d340e17eb7554b4f402269f283d167fafa1200a5a665a49fd0d1a9c48b54200fce05c353c63277a0c39322f79f95834",
+        "sha512sum": "c2caa1dd3b1310eaafe0e01b3054c30b40480a84fce9ba19b09ee40776eec566faa4c413b4c087574f86ac08b9049717acf87addef115800b07e4f623dd74c33",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/pf4jApprovalPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/ApprovalPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
