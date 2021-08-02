@@ -69,7 +69,7 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "dd21ed8425be9d105461d31f664c30f99d06dbc3e9383aa1f149e7973a07d26a42fffff209bc17c5032a84cc6cd9128c777ecf9c1482141d264214d090a9d306",
+        "sha512sum": "15b366d9443d78296e235f92a9bb82f729e60323088cb303a8c038557756b51528318a08a215c193bb2da9370f5c638d1f4338847b23626b1904ba3861e77e82",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.6/approvalPlugin-v1.0.1-SNAPSHOT.zip"
       }
@@ -84,7 +84,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "7b3352520fa8be6a096859156cb6b3cd31619e50f35dbffabc4f1f785b75b3c3a8d66416a17640b7a37550fc2772d17fdbec6b326d55ceaaff8dc456546f97c5",
+        "sha512sum": "8b79fd0755f8714fb2feec45c9903a244361332f38d9c891dfa5b78f3537ac157ec2a233a3d953d721000ff0a990803a63d9b8cb2741d38cc2ddde3439410391",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.5/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
