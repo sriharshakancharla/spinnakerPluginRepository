@@ -10,7 +10,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "761cdc9395328986c18ccfa24db87e9484a7e76950c7cca94ea6d314ebc50b2edc7fbd85b51f5e3e045503eda3ee24a5627366a6f9d45051c8bf615588051837",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2/front50-v1.0.1.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/front50-v1.0.1.zip"
       }
     ]
   }
