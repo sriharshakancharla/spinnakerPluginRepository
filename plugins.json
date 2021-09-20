@@ -1,51 +1,6 @@
 [
   {
-    "id": "Opsmx.VerificationGatePlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-06-24T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "074b5d7dcc78b69a17949815460f8bae8ae282ebf53510e29fe7ed216f8660533d83351660937085f6f0e72c29e6062bf8e8981163695fb4f1210756cfc9c126",
-        "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.0/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
-  {
-    "id": "Opsmx.TestVerificationGatePlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-07-25T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "742a6342aff11d92fe252ac2218589fcae7427de601544fcb73e428ef99781e2698cc05292f7e5c0478898d4db3cdcd82247e519897c75f8f19313f34349a3e2",
-        "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.0/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
-  {
-    "id": "Opsmx.VisibilityApprovalPlugin",
-    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "date": "2021-07-20T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "413faabc08c39401e864d9b6cfa85dd932c883fe051607b3731b9ba7e6ebd30586ef5bb5b4e0c221a1b0b41e3d5ebfc32d51a1472a8bb05b53d210feb40303c4",
-        "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
-      }
-    ]
-  },
-  {
-    "id": "Opsmx.PolicyGatePlugin",
+    "id": "Opsmx.StaticPolicyPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
     "provider": "https://github.com/opsmx",
     "releases": [
@@ -53,9 +8,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "37e07c5ba5da2adef801e561407ebb5349b261356a994f76ea2a8add0ecd5905c3a930574b9a54af854947c705af87f25cfef64d1341b29c75472de5b2bfbf7c",
+        "sha512sum": "761cdc9395328986c18ccfa24db87e9484a7e76950c7cca94ea6d314ebc50b2edc7fbd85b51f5e3e045503eda3ee24a5627366a6f9d45051c8bf615588051837",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.0/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2/front50-v1.0.1.zip"
       }
     ]
   }
