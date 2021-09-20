@@ -8,7 +8,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "124782beef9e95ff3e6306f5bac8bbf3d22b5fd2abd0ab4b94bfbc7d5bb016adeaef98302b0ba2734ddc50151ef189ccf771c8b9f9de94416a4bcd8d1ca38fb7",
+        "sha512sum": "fb67b0a57e03b5fbf2d747d6f70602138e55199b383eddcbf477393d04c751b46cc1ad2a7b5e038cc242f4149cadc5a4022682f70cf4ed3b0bee26e653fe9bb2",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/front50-v1.0.1.zip"
       }
