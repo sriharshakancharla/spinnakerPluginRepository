@@ -31,7 +31,7 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "b878c66984dd394d95cac98d48e39859920f3f57b13dfec331d766cdb8736a0932f5b3b1a59d7239613bdb3d883a1bf4b52aebe55c5d067d0665e4ee0b9afa6f",
+        "sha512sum": "753fc709d183a9a0bb651c403212f9a3f2ba91725a9c69b739d7eec7881ab6b3ab42ffce477b92e1c207392d1371f1f6a198479e558a2138bbd1aa439f97821c",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
@@ -46,7 +46,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "ef95eaa1c58addc6a23c18d2ed50e49ca26ef53abaa29382b01ac960ad4940aaf7b0213b7a41626cd46669fb72d1373cf2f60e00fceec2584310918dca0535b3",
+        "sha512sum": "d214111c29f8c5811bb1310c06daaf7a49505c97494eb4285a60e7c5beaf2f13ed4ddbb6b8d5f8c0b063236ff2730ef5f63e8c3522ebcdec95e38a8f88ad9aa8",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
@@ -58,12 +58,12 @@
     "provider": "https://github.com/opsmx",
     "releases": [
       {
-        "version": "1.0.2",
+        "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "c2ee331995b2ca8544e4f541eadcbbbe073509dcf6b6acd04c3e47416902644dc07023c15704b58a90763b30f84ad2f83d01e26afd1a4fd85544dd7661f77d71",
+        "sha512sum": "9a5fc35c633e5ff695faf8c02ab5907c9cca1471ad0398affb2ec07bf75787f7d4c9ee51bcab9bce4a748b7631f7b02f55a472e9f5f332a83bfcba4aae6d4b86",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/approvalStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -76,7 +76,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "3d0750357ec4e750036f781339ba9e3a54044b5d39e7b0fd8209bd02c332cbfe547ddaaeb02718a0d65fb84a361f270dd87b4c8d833046e3e4c08a67be3ba860",
+        "sha512sum": "6c48b65147d71667ef0a4780f86c5e070d94316995b364aff03079a90b707d42d648aa1c35ad91f7d0da0d3494c4c1f5d0d78dc2d46ccc4a70f30ad09270e62d",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
