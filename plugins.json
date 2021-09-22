@@ -33,7 +33,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "b878c66984dd394d95cac98d48e39859920f3f57b13dfec331d766cdb8736a0932f5b3b1a59d7239613bdb3d883a1bf4b52aebe55c5d067d0665e4ee0b9afa6f",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -48,7 +48,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "ef95eaa1c58addc6a23c18d2ed50e49ca26ef53abaa29382b01ac960ad4940aaf7b0213b7a41626cd46669fb72d1373cf2f60e00fceec2584310918dca0535b3",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -63,7 +63,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "ef49ecc1c0158ea34a47c946469dde53997bf462b8ad04dc1d32e8c32e12ba841c214c27ed675ed7dbac2bc1f59894c77685d4cc2ef83cfaa1959b049dfd5b3c",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -78,7 +78,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "3d0750357ec4e750036f781339ba9e3a54044b5d39e7b0fd8209bd02c332cbfe547ddaaeb02718a0d65fb84a361f270dd87b4c8d833046e3e4c08a67be3ba860",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   }
