@@ -10,7 +10,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "ea28436ce52aca741b76acf4b6ffc84a06baac8ff2d4e4c51c9e0271b79e382ca1ac4532183c1c355a700da57cce454419c0b15a300235920a53a5f33fde5af4",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/front50-v1.0.1.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-staticpolicy/staticpolicy-v1.0.1.zip"
       }
     ]
   }
