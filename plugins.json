@@ -8,7 +8,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "036413b2eab72453857fe5abffc33099b7cf1b9d22a4b955d6d45d911c75f2c0f2d323c6460defbbda451c1d545ae5406a3e483cac1b06bae4b2bc0ab63ab79f",
+        "sha512sum": "bb8448d4ca080a1a4b9b00630828e2afe83f4b027eddc240b0ce61df3d1e210ce5145df69a1d972cbb005d0133338cec2a8d1273a348b60301f8511229ffb0d5",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-staticpolicy/staticpolicy-v1.0.1.zip"
       }
