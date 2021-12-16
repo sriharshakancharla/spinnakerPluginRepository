@@ -33,7 +33,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "753fc709d183a9a0bb651c403212f9a3f2ba91725a9c69b739d7eec7881ab6b3ab42ffce477b92e1c207392d1371f1f6a198479e558a2138bbd1aa439f97821c",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0-rc1/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -48,7 +48,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "d214111c29f8c5811bb1310c06daaf7a49505c97494eb4285a60e7c5beaf2f13ed4ddbb6b8d5f8c0b063236ff2730ef5f63e8c3522ebcdec95e38a8f88ad9aa8",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0-rc1/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -63,7 +63,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "9a5fc35c633e5ff695faf8c02ab5907c9cca1471ad0398affb2ec07bf75787f7d4c9ee51bcab9bce4a748b7631f7b02f55a472e9f5f332a83bfcba4aae6d4b86",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0-rc1/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
