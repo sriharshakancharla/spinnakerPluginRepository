@@ -58,7 +58,7 @@
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
-  }
+  },
   {
     "id": "Opsmx.StaticPolicyPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
