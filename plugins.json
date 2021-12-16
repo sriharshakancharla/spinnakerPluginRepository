@@ -22,7 +22,7 @@
       }
     ]
   },
-  {
+    {
     "id": "Opsmx.VerificationGatePlugin",
     "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
     "provider": "https://github.com/opsmx",
@@ -31,9 +31,9 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "753fc709d183a9a0bb651c403212f9a3f2ba91725a9c69b739d7eec7881ab6b3ab42ffce477b92e1c207392d1371f1f6a198479e558a2138bbd1aa439f97821c",
+        "sha512sum": "c5f1502809e8007d84bda62cb35cd580422e3fbba2f46ee41eb982d225c50fb97364fa88a1f8297d7b442091fa59728374875a491b7f27c6faab9f0d51e79067",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -46,9 +46,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "d214111c29f8c5811bb1310c06daaf7a49505c97494eb4285a60e7c5beaf2f13ed4ddbb6b8d5f8c0b063236ff2730ef5f63e8c3522ebcdec95e38a8f88ad9aa8",
+        "sha512sum": "55d851590cf92beda50801fa896d037aaa2cea58fa88f67e5743856fc86236dc19abc44f3eaf5b5e88f9ed52060be804418c8c190c146ffb0305e91dd9e7532c",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -61,9 +61,9 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "9a5fc35c633e5ff695faf8c02ab5907c9cca1471ad0398affb2ec07bf75787f7d4c9ee51bcab9bce4a748b7631f7b02f55a472e9f5f332a83bfcba4aae6d4b86",
+        "sha512sum": "c033f96fcc6a795cd4d3bb172cde178085118322c8657fe53a3b2b89a7f71f1f9ad7d6907550d7ee67fa6ca894be316d7850551231c0b5d7d8f395302637a219",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -76,9 +76,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "065e88e4430c7abb365e6981e2f1b9233e32c9223db5d61b058c3bb56682edcfc6749beb21a6976ec4b220ba14662bd2af511c8bbb4ff2cb3ba9d5160a665bf6",
+        "sha512sum": "104a7bfd94d8b59712968577509c770e2441587923f3ba74fe5244f72e7892a5dfb266655e00c9cc745eb264093a901e20cfdb49b68e3c0c4b0f7aa46ebfbeaf",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.10.0-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   }
