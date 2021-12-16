@@ -8,7 +8,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "ddc8fe4ef74b15984dc3858640238f544617ab541b6d3248eadbe40ad5c18625b2b3c87a64f21133393d8c6001ea411408dfb4793a69c3af7f99853793778a38",
+        "sha512sum": "fc1aa4c8699021bef047496c66d6aaf2e2974e08b2e368b569a0b49e46cade448b30051bfd3ae8f14d2b0b1af9fa9076d58491b159510b4fd6bdf0b625b55d6e",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/rbac-v1.0.3-SNAPSHOT.zip"
       }
