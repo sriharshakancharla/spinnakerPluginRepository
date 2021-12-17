@@ -8,9 +8,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "61509448f155581594b9df3623203555e621834bf22d8a2d40893f789e89b88548ea34976cf21e1dc848d3511105ef4cd4bb11df8a4c830c0aed0d2686478ddd",
+        "sha512sum": "c17c6796ed934e076893d8757d0daeba30a130fd8ec66221698bac1f39ccd63da96889371a957f5c351bde28f2ddf1fbebcf13aea7b8f12e14ea4a0c2f11a82a",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/front50-rbac.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/staticpolicy-v1.0.1.zip"
       }
     ]
   }
