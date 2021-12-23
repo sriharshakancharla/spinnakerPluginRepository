@@ -8,7 +8,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "8307d4c986fc38048cc6d46070c897a050b0ca692086eaa3569473f4b20beffa0e596f7767a592f12fb1783ea225b33d1f0349ce59b24d1c50a09e53b1eb606c",
+        "sha512sum": "66b51627559fea6572d348ca783ad5a6920ed696b8c60f2aec421e224b9896458f29bb11628aff8899cb7c008da9b15f34c9e7a3c4344b5fd099b5a045398b8e",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/orcaplugin.zip"
       }
