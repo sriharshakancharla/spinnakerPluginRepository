@@ -1,6 +1,6 @@
 [
   {
-    "id": "Opsmx.VerificationGatePlugin",
+    "id": "Opsmx.RbacPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
     "provider": "https://github.com/opsmx",
     "releases": [
@@ -8,7 +8,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "8c27ed9ff0396970f883c34a0e7757fe70762e63fe7da7ead8ef6e00cd8fac594e71f893e2e6d4c9b0601da10a2832e90f9908247fd6905782ee831b4fa7f5e5",
+        "sha512sum": "d9f472c5a06dfcba73c858b70c6fe9a8d4b61135646998cfa23d7ec2a7066ff054ba4c3a1b85d4b7473668eed861db38e2e8add978981a1e0ab642047e1e19d3",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/orcaplugin.zip"
       }
