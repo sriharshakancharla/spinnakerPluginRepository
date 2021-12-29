@@ -96,5 +96,20 @@
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/RbacPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
+  },
+  {
+    "id": "Opsmx.StaticPolicyPlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-25T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "bb8448d4ca080a1a4b9b00630828e2afe83f4b027eddc240b0ce61df3d1e210ce5145df69a1d972cbb005d0133338cec2a8d1273a348b60301f8511229ffb0d5",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/staticpolicy-v1.0.1.zip"
+      }
+    ]
   }
 ]
