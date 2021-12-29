@@ -106,7 +106,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "bb8448d4ca080a1a4b9b00630828e2afe83f4b027eddc240b0ce61df3d1e210ce5145df69a1d972cbb005d0133338cec2a8d1273a348b60301f8511229ffb0d5",
+        "sha512sum": "ef045e92cc10f4ac57adb82d4d378e0110cfdda5b85b4d8a0397c06945ccb67314fab46d1eabfe6bbaca45562d3dd78a40796d030af4cf185902832e9b2cc0a2",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/staticpolicy-v1.0.1.zip"
       }
