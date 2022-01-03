@@ -8,9 +8,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "d610bb3e1b489bc6a181a7ca98de161d4ad1b5e9426033315aea9b409a82c08e40bed39b0573b47e8a453898e685897f4444a5707d43a3c139c4de642e91e4f9",
+        "sha512sum": "d0515b591321955840fa5d17271c3138e126b0fa786f12ff8a096f7138961ba28185d6521895f998998a0f826cdbd9f044629c93e3831960a7a7a011799f813f",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/staticpolicy-v1.0.1.zip"
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/pipelinevalidation.zip"
       }
     ]
   }
