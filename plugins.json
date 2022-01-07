@@ -1,6 +1,6 @@
 [
   {
-    "id": "Opsmx.StaticPolicyPlugin",
+    "id": "Opsmx.TerraformPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
     "provider": "https://github.com/opsmx",
     "releases": [
@@ -8,9 +8,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "d0515b591321955840fa5d17271c3138e126b0fa786f12ff8a096f7138961ba28185d6521895f998998a0f826cdbd9f044629c93e3831960a7a7a011799f813f",
+        "sha512sum": "40ff4dbb9298e2f0dc9c4275709135e8ee0799d674ec1a7a22825762f8d3c30dca4ec580260688090ce9ed23e67cddd6b2cf11edbe30281d723a04ef1629ae93",
         "state": "",
-        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v3.9.2-rc1/pipelinevalidation.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-terraform/TerraformPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   }
