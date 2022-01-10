@@ -32,8 +32,8 @@
         "version": "1.0.10",
         "date": "2021-03-03T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "",
-        "state": "b577a84af8335f67562e77d9d49a37d16e8f0a7ee7c82efd5beabb71f789c8e8600bbc45e9c5702f1a1288706ccaa628871976f58987acd8d1356675cd86c40c",
+        "sha512sum": "b577a84af8335f67562e77d9d49a37d16e8f0a7ee7c82efd5beabb71f789c8e8600bbc45e9c5702f1a1288706ccaa628871976f58987acd8d1356675cd86c40c",
+        "state": "",
         "url": "https://github.com/opsmx/Pf4jCustomStagePlugin/releases/download/v1.0.10/pf4jCustomStagePlugin-v1.0.10.zip"
       },
       {
