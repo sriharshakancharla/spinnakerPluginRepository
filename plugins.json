@@ -128,5 +128,20 @@
         "url": "https://github.com/opsmx/Pf4jBulkSaveApiPlugin/releases/download/v1.0.1/pf4jBulkSaveApiPlugin-v1.0.1.zip"
       }
     ]
+  },
+  {
+    "id": "Opsmx.TerraformGatePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom terraform stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-25T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "c32d1b34e574f8c71dee09229aa24f49af83ced27d6cb2d69bb022c25e1c5bfb93ae22183be4761921f9fbe048dd730fe1b048cb626440a6d9c840935852cd12",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.0terraform/policyPlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
   }
 ]
