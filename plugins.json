@@ -73,5 +73,35 @@
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
+  },
+  {
+    "id": "Opsmx.TerraformApplyPlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom terraform-apply stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-25T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "320e0fe61382e9246afae8763aa4591da428de3b389a5eba9946e79c534c06b7c0c696c75cbd021a8db234f898603574d960575f8f24da8224ca73b9965f7e83",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.1-terraform-apply/terraformApplyPlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
+  },
+  {
+    "id": "Opsmx.TerraformDestroyPlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom terraform-destroy stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-25T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "1a470a3f9c5df1885ec7930d812e8e71c72ef7c68af156f2ff72701f9151b63256f921687b9180347dd0b9d319d5c95e8b3dbc11a650a1d7f2adba583e3659a6",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.2-terraform-destroy/terraformDestroyPlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
   }
 ]
