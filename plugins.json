@@ -8,7 +8,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "fd98dc3c7e69854446e2bff1a38341147798eb93aff8d8717f4eac84020f39d1c0a78058e835d27391ae6b932f6ecfee60b461bdb913bfce058e5c54c973d8a3",
+        "sha512sum": "012643e31521b1c3fe378aac3f313687559dab5ef15abdd095cd93a4625c6d04a0f83a4e40de2746952f4e41144d71f49c23f60ab815c9608ae9f574770be07f",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/RbacPlugin-v1.0.1-SNAPSHOT.zip"
       }
