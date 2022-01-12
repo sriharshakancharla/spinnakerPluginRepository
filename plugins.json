@@ -12,6 +12,40 @@
         "state": "",
         "url": "https://github.com/opsmx/Pf4jCustomStagePlugin/releases/download/v1.0.1/pf4jCustomStagePlugin-v1.0.1.zip"
       },
+      {
+        "version": "1.0.2",
+        "date": "2021-03-08T16:20:59.469168Z",
+        "requires": "echo>=0.0.0",
+        "sha512sum": "5f85ac0f02183caa8460546b35e2345c7b1314b1978e31511b57662aa7dcb19207044ce838525aeab6da31e39253cc0ce24b80a5852c98d1c3acbd4025a40c66",
+        "state": "",
+        "url": "https://github.com/opsmx/Pf4jCustomStagePlugin/releases/download/v1.0.2/pf4jCustomStagePlugin-v1.0.2.zip"
+      },
+      {
+        "version": "1.0.9",
+        "date": "2021-03-03T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "64792fd96224be84975d7a5d4c03acae1aff208d4a8b84f3a338c1d5c55a5920ecd83bdc539d165c0fc561838dea97598b9286eea1f35fe9561b40d4e5a2a258",
+        "state": "",
+        "url": "https://github.com/opsmx/Pf4jCustomStagePlugin/releases/download/v1.0.9/pf4jCustomStagePlugin-v1.0.9.zip"
+      },
+      {
+        "version": "1.0.10",
+        "date": "2021-03-03T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "1a5956d63a7839e8966dd301b72749a610bb899774b2bcc3f288e2edf8b0fafb54482ad574592efc9dcf0e2d7155294a3f4bbeb20728b1544526d3f25e12462b",
+        "state": "",
+        "url": "https://github.com/opsmx/Pf4jCustomStagePlugin/releases/download/v1.0.10/pf4jCustomStagePlugin-v1.0.10.zip"
+      },
+      {
+        "version": "1.0.11",
+        "date": "2021-03-03T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "2bd79b16a7545cf8392a695ce0ec6b09c77173b5d92ecc2b7a98907fd4ed9e682003634ff69fc2b8bdf802940ac3d0718c908a4782280c30f3e7cbbf4c9c52ca",
+        "state": "",
+        "url": "https://github.com/opsmx/Pf4jCustomStagePlugin/releases/download/v1.0.11/pf4jCustomStagePlugin-v1.0.11.zip"
+      }
+    ]
+  },
   {
     "id": "Opsmx.TerraformPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
