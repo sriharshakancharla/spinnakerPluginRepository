@@ -143,5 +143,20 @@
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.0terraform/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
+  },
+  {
+    "id": "Opsmx.ProgressiveCustomStagePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom progressive pipeline stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-03-03T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "89385c0ffa5d57a3c740407e9106bcd7130f8628e0808746c0e76378e8af94db50bedc9918c847c2c92213e3c9e67b31e4d5d218ff73d31a6329e41f541b9835",
+        "state": "",
+        "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.21/pf4jProgressiveCustomStagePlugin-v1.0.1.zip"
+      }
+    ]
   }
 ]
