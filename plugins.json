@@ -122,6 +122,21 @@
     ]
   },
   {
+    "id": "Opsmx.TerraformPlanPlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom terraform-plan stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-25T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "393304b48ea71bf5ff4fcaf2a05e49470312ac6efd62b82c37e6f13689455c39747f914082a60b85260f223878f27e289ce4b7014026f9913ea87983c8799635",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.3-terraform-plan/TerraformPlanPlugin-v1.0.1-SNAPSHOT1.zip"
+      }
+    ]
+  }
+  {
     "id": "Opsmx.TerraformApplyPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom terraform-apply stage.",
     "provider": "https://github.com/opsmx",
@@ -130,9 +145,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "320e0fe61382e9246afae8763aa4591da428de3b389a5eba9946e79c534c06b7c0c696c75cbd021a8db234f898603574d960575f8f24da8224ca73b9965f7e83",
+        "sha512sum": "9f6f71a16d1e9a09dde069d376e7017bbee0dcb35b25fead8acbe622b5320496be31c31d8d85916f375dafb38a7f8810a4585fbe3d27fb0153d71c5ab0e1ca76",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.1-terraform-apply/terraformApplyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.3-terraform-apply/terraformApplyPlugin-v1.0.1-SNAPSHOT1.zip"
       }
     ]
   },
@@ -145,9 +160,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "1a470a3f9c5df1885ec7930d812e8e71c72ef7c68af156f2ff72701f9151b63256f921687b9180347dd0b9d319d5c95e8b3dbc11a650a1d7f2adba583e3659a6",
+        "sha512sum": "3246b6c16cca1fc897af032529a14c5fe9272483539ffcba44a83c69537e20434ecc93abb81bee380fdd602b57ed22a319fbbc9e7fe8b4d1a98d32088c8b2a9d",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.2-terraform-destroy/terraformDestroyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.3-terraform-destroy/terraformDestroyPlugin-v1.0.1-SNAPSHOT1.zip"
       }
     ]
   }
