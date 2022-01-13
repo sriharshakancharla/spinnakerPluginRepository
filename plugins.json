@@ -135,7 +135,7 @@
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.3-terraform-plan/TerraformPlanPlugin-v1.0.1-SNAPSHOT1.zip"
       }
     ]
-  }
+  },
   {
     "id": "Opsmx.TerraformApplyPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom terraform-apply stage.",
