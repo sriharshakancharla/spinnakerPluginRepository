@@ -79,6 +79,14 @@
         "sha512sum": "d3941ba09478e2c923b02fcce78968eb589ac044b20f7411ca4762fb97fe70ebf40639b8a36bc340711372306583b21d8d6dd87b532eacce4b191dc38a938fef",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/policyPlugin-v1.0.1-SNAPSHOT.zip"
+      },
+      {
+        "version": "1.0.2",
+        "date": "2022-01-17T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "d3941ba09478e2c923b02fcce78968eb589ac044b20f7411ca4762fb97fe70ebf40639b8a36bc340711372306583b21d8d6dd87b532eacce4b191dc38a938fef",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
