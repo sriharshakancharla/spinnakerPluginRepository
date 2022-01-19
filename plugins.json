@@ -29,7 +29,6 @@
       }
     ]
   },
-  ,
     {
     "id": "Opsmx.VerificationGatePlugin",
     "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
