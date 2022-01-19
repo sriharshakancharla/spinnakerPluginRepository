@@ -28,5 +28,51 @@
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
+  },
+  ,
+    {
+    "id": "Opsmx.VerificationGatePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-06-24T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "c5f1502809e8007d84bda62cb35cd580422e3fbba2f46ee41eb982d225c50fb97364fa88a1f8297d7b442091fa59728374875a491b7f27c6faab9f0d51e79067",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
+  },
+  {
+    "id": "Opsmx.TestVerificationGatePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-25T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "55d851590cf92beda50801fa896d037aaa2cea58fa88f67e5743856fc86236dc19abc44f3eaf5b5e88f9ed52060be804418c8c190c146ffb0305e91dd9e7532c",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
+  },
+  {
+    "id": "Opsmx.VisibilityApprovalPlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-20T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "c033f96fcc6a795cd4d3bb172cde178085118322c8657fe53a3b2b89a7f71f1f9ad7d6907550d7ee67fa6ca894be316d7850551231c0b5d7d8f395302637a219",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
   }
 ]
