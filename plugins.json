@@ -169,7 +169,7 @@
         "version": "1.0.3",
         "date": "2022-02-02T07:36:15.626913Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "e1fdbd436d304c8d47467cf375fb62ab16fabfdef634d348e93a2cf7fa0e761462651ad230bc855039fd09ac94f5afedb88292c0ae9499b01f368ec1da2c7fdc",
+        "sha512sum": "0f865e98a66c04398ba033a9be80cd7a290bd7d0a398493c807e8a5b533e685baeb432c2988ad66aca9541a4c1b5561f4810cd634b4e4bdc6c44661580635ae0",
         "state": "",
         "url": "https://github.com/OpsMx/Pf4jCustomStagePlugin/releases/download/v1.0.25/pf4jProgressiveCustomStagePlugin-v1.0.3.zip"
       },
