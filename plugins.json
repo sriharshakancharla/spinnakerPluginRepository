@@ -1,19 +1,19 @@
 [
    {
-      "id":"Opsmx.RbacPlugin",
-      "description":"An example of a PF4J-based plugin that provides a custom policy stage.",
-      "provider":"https://github.com/opsmx",
-      "releases":[
-         {
-            "version":"1.0.1",
-            "date":"2021-07-25T16:20:59.469168Z",
-            "requires":"orca>=0.0.0,deck>=0.0.0",
-            "sha512sum":"06b1dccd970d98e367eae76985dbff99f9dbce896a114cb023c8d48f223a9d007907644e2089916158579b5123a1cd1751d3150dfa1a7755e1856f8e583f2835",
-            "state":"",
-            "url":"https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/RbacPlugin-v1.0.1-SNAPSHOT.zip"
-         }
-      ]
-   },
+    "id": "Opsmx.RbacPlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-25T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "06b1dccd970d98e367eae76985dbff99f9dbce896a114cb023c8d48f223a9d007907644e2089916158579b5123a1cd1751d3150dfa1a7755e1856f8e583f2835",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/RbacPlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
+  },
    {
       "id":"Opsmx.PolicyGatePlugin",
       "description":"An example of a PF4J-based plugin that provides a custom policy stage.",
