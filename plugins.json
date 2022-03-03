@@ -53,9 +53,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "252987470c8dd290915fa941f601d9e211a210335093ae6ef34ebd126fd5fa27ad3f0acddcd535ea98987cce940fb0202d39f1e5692abe45ccfff0a44806ac53",
+        "sha512sum": "9bbd73c069a88d12ddf77b2a1bd4f7f68fec148081b355cfe2a57b3452854459588c4db336233b0605016c25bd72d90d6ed6b469ebe602e7ed735c0fa93cc464",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
