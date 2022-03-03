@@ -76,7 +76,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "92132829b5a7e08c72699187bcdcf19308b828010e80260b1b395f3e7de1b6ba59e255c19ef3911f94226e44ae3d4873d12c4099bbb5757676894c92176310d0",
+        "sha512sum": "9bbd73c069a88d12ddf77b2a1bd4f7f68fec148081b355cfe2a57b3452854459588c4db336233b0605016c25bd72d90d6ed6b469ebe602e7ed735c0fa93cc464",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/policyPlugin-v1.0.1-SNAPSHOT.zip"
       },
@@ -84,7 +84,7 @@
         "version": "1.0.2",
         "date": "2022-01-17T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "92132829b5a7e08c72699187bcdcf19308b828010e80260b1b395f3e7de1b6ba59e255c19ef3911f94226e44ae3d4873d12c4099bbb5757676894c92176310d0",
+        "sha512sum": "9bbd73c069a88d12ddf77b2a1bd4f7f68fec148081b355cfe2a57b3452854459588c4db336233b0605016c25bd72d90d6ed6b469ebe602e7ed735c0fa93cc464",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.10.0/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
