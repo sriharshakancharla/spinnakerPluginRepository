@@ -190,7 +190,7 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "echo>=0.0.0",
-        "sha512sum": "fab4ad8a4fed1036cec5cf87de46d0bb6d4e59a46e9f8743322f529fd27947a442d009b1d54e762716ec85ab078f3ddce4fe1463ea691c7d90c34d547cbd1c00",
+        "sha512sum": "45eb0b8e9038e29d2d9d0aef592f8151169bd6b8153627d7aeb3e7ce8369553dbe0534f278c75fc33fb972acef2d05c280b50f1ae2fc2372ffc977b6450f2188",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/RmqPoc/CustomEchoEvent.zip"
       }
