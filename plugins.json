@@ -184,7 +184,7 @@
 			{
 				"version": "5.13.0",
 				"date": "2021-07-20T16:20:59.469168Z",
-				"requires": "echo>=0.0.0",
+				"requires": "",
 				"sha512sum": "d1600d71e817e04898d5a82bef75ccda5574445d78d4c82607065ff3c08dcc82068aab90443d50beac348cf66267098446290eb2d01efd4ac2147b658f120696",
 				"state": "",
 				"url": "https://github.com/OpsMx/Customplugins/releases/download/RmqPoc/amqp-client-5.13.0.jar"
@@ -192,7 +192,7 @@
 			{
 				"version": "1.7.31",
 				"date": "2021-07-20T16:20:59.469168Z",
-				"requires": "echo>=0.0.0",
+				"requires": "",
 				"sha512sum": "2ca2c58b5a5d8adc6990557af546547bbf6af9826cd8924a6685ad80973cc8fc622c2378a4bde2fad668263ca3b52fcbf0780ace164d1f1d002f56c5d35abd53",
 				"state": "",
 				"url": "https://github.com/OpsMx/Customplugins/releases/download/RmqPoc/slf4j-api-1.7.31.jar"
