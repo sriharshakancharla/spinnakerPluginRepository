@@ -177,7 +177,7 @@
 			"version": "v1.0.1-SNAPSHOT",
 			"date": "2022-04-13T11:51:48.033490Z",
 			"requires": "echo>=0.0.0",
-			"sha512sum": "85ed65d41fcb02b32da945b552276d7d7b4e510e9f0822cbb8229fd3509a8ffd53362dd3f93d2d7fd1b1bdf9ade1f51b5a339dd77f8075785b572ae8d3f6009f",
+			"sha512sum": "62d9b82af1a1dd3f18b233a068fc8ce8bc5cb81d5a4099f76403707551ca3eef26c10758c6eaffff6f0c44b3125eb4e9820e63b3d09f0b549cd630c53a7925b9",
 			"preferred": false,
 			"compatibility": [
 
