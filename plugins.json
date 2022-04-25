@@ -177,7 +177,7 @@
 			"version": "1.0.1",
 			"date": "2022-04-13T11:51:48.033490Z",
 			"requires": "echo>=0.0.0",
-			"sha512sum": "dfcfb68ecbeb8760732961dc5cceee7a72c67adacf336087ec34f13803b91cd7aae3dcd9f290ce04340ed1b982b29539f3bb89cc4671aaad9b3e426ce48fca48",
+			"sha512sum": "8dfcdd875f4135911393a62a838ee9e0bb872c9619a389828819accfc201eee0c9788415e39077645c83d5d03f2e4116787a9256b7bacecced6fe984094d5152",
 			"state": "",
 			"url": "https://github.com/OpsMx/Customplugins/releases/download/RmqPoc/EchoEventPlugin-v1.0.1-SNAPSHOT.zip"
 		}]
