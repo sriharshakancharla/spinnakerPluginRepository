@@ -31,7 +31,7 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "fdfd52415c96b5dc073b6a2a8176f06f1dfac861c5b42d321006ae4e4b7a4148ba8fa7d46da0b458f15f3db594a11025bf3b16429aba32e6d8b7009d2b54faba",
+        "sha512sum": "b5f0ce26b2072730b3fab7aba4cadd046d8af94a044f5aff29a0659d78d033d81f002e0e269289b93d66a730d0b7c7fc9c629c9e6c2b7e38cb6eb1b161af3527",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
