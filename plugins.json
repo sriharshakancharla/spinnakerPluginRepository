@@ -76,7 +76,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "e2888243c114c9a461ed0493c15516eaa4f272877016e179dd7f6f5c6b51a9ec45fa26c5f1e291954c93201a0763004bf01e0645af3c05251672c5672ec82a07",
+        "sha512sum": "49fe2f7279e3d3e96faa2293b6c82e25704d2cad253fc92ac58711435038435ad280c110ccc9be36cb8d363d81e99c5cd3f4c0d5a4339afcfab1d6ea277c7359",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/policyPlugin-v1.0.1-SNAPSHOT.zip"
       },
