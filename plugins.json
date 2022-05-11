@@ -136,9 +136,9 @@
       },
       {
         "version": "1.0.2",
-        "date": "22022-04-28T08:54:54.637314Z",
+        "date": "2022-05-11T04:38:37.517829Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "550ba57665566d653621cb018cfd213521f98756aee43b4b253d9e6477c74d5fa5ba35c58474360c321163ce8c2b4110b0b66bc65764cb05cbb02e44f174c1e7",
+        "sha512sum": "dfb5a61a5f5da11ba165bf2ee252aa0405d978e1739efeb8ecc82e421837b4f3af7024f66c55211d06350c477e4e2f5246028b19e8630a2e4079bc82fec1f91f",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v1.3-terraform-plan/TerraformPlanPlugin-v1.0.1-SNAPSHOT.zip"
       }
