@@ -31,7 +31,7 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "5ba7cfd62f530ea23bc46956342b14ed1bff9cad939b1d554c7a7fa65c7242055819b85cb76e25af2ba1c47bd972e13081ae294c87c33175d94416db45770080",
+        "sha512sum": "38445e1954fe3d08d7605b16d99aadd9f664afde33a8c96f01702ffda6f6f9bb8114b04e35e50f233490a17b2d5389af241bb1c94e80a58c6f9d96361cc0efb3",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0-rc2/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
