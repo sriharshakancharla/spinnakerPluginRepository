@@ -61,7 +61,7 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "23eeb0eb52505726d7b4b006b3e09bd3915a66cef0c1087fa0a95617dc74e48fca6ac535b51253b1b3d54707ccc1c30156f760cc62ccc4af054f479af6df6dad",
+        "sha512sum": "391b0a9a2b04ff7e8fcb2246877fde27996920977d825cf55dd3121c9449a1b6a45091fb6a8ef6e0950368165c7b011e6839a85d8d361e769eb2bb5eb9b730fa",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
