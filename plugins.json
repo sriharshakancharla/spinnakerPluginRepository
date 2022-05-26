@@ -46,7 +46,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "57ce183fb76bfe55ee1796cd92ef17635b2f0e982476436771fe537033c2a3ad4f6ffd53b9b2d9663c821b2d67d755e2c68677b458e497ba35d2e79c16476597",
+        "sha512sum": "3e923b0df01e737a25d89c69c4eb46dbdb6c0de3e42dd4caaa77a7ccdea98cbc9d5ac9f4b958ba393606fc5c6228ccfe3aed342f215e87262bee26fb6336ae60",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.0-rc2/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
