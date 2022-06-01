@@ -31,9 +31,9 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "5b297dc24576d641006a695dc87b1646ef124243a999081c4546266bec78b84f08d790a5464590343a6e629bc9203381b3808648a634ba60ff9d838fdfd7d576",
+        "sha512sum": "f6cfd1e378d2a59eb4581bd6b1ad02fc8efbb5d7340deb93dfed1162e1fec3286739925a6068f5779494db4ef32e0cd00041df28315fcac1e71e53aa47d2a7d5",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.12.0/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.12.5/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -46,9 +46,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "d66102fe2c346358ad14d0c36aa9c5bf898aea4c86476a558095d2d0d1fd644232efd0e50ea07ffa6d126f3b82ff242c05edfea6c403916ee40b3ec4c55f9f1f",
+        "sha512sum": "eb7e62840ee1d67d3f73486e704dde817380754b7d109b46d81d544fc9e9f3eb80a54d0b49834c9acf7548571dd72244a1b4709919058f08c52048d60d36feb4",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.12.0/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.12.5/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -61,9 +61,9 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "3f6fe29cde1ae7e99db6d76b1482c57b9c2a126f00cea0c14a71a31c75a4bef77cc7d98673770369a13968899df1bd63fc999e52ac4b9858912d6f550dc8836d",
+        "sha512sum": "8a41d4a372fd07b049ec041c88b3b5a45c98522369107e308aaa52ea2af401b55498092f661e6ded87efb306eb627319bb9c918c46363ec163c7f37bb4fa6107",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.12.0/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.12.5/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
