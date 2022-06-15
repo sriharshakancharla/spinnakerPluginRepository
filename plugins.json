@@ -101,7 +101,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "e4860e5ccbc8abfcb03964184482517e9b8553d0ce340ca17f34899054c872426c3991ea81e8f379b49e7b7b019cc4594fe6b0241c8ad1979cbfb440b3645fc9",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0-rc3/RbacPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.0-rc3/RbacPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
