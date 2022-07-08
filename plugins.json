@@ -99,7 +99,7 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "8dcf81dcc1664c7bbc423cabd32ff7dbd90e197fcd1de134445230efbed3c4c760441aa3d95495e3d09d6606597c856f7914e9cc30b4c4b8856033968e051fa7",
+        "sha512sum": "558246ef65736a2f25bab6ae4bfa9886c0da87614ce601568e06bf2fd717137ea74f8c6b2664fa7761e81b3c1d75ce3d35407ad92c1a6e5d6bf451e92df00b1c",
         "state": "",
         "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.12.5/RbacPlugin-v1.0.1-SNAPSHOT.zip"
       }
