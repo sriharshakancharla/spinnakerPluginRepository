@@ -78,7 +78,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "4f34bf8c5bc9317ad4b6406430eabc2b46eff03ecaba2d71f5e003182b61b014a18d675e01b000888bd9291a5914920bc6bf5a233bee98d261f9795b623902dd",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/downloadOP-18868-v4.0-rc/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/OP-18868-v4.0-rc/policyPlugin-v1.0.1-SNAPSHOT.zip"
       },
       {
         "version": "1.0.2",
@@ -99,9 +99,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "a026e1ff19c8df7b1580b639714132320780c9654b47036f99709cf5ff0c254faa49b86a61f68ecb6c60bbfb0f794b56de55c67cb59dacb215c9a712db4e45ae",
+        "sha512sum": "65afb61cc684e8ec71fe96431b13a21be450f72799c701df41a2aeca699ec5d93a213ebc2abc51ca589527e01a3dce30b1af8f63bda33c39b4452211d66c07d0",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.0-rc2-new/RbacPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/OP-18868-v4.0-rc/RbacPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
