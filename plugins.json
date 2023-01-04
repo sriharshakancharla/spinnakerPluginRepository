@@ -31,9 +31,9 @@
         "version": "1.0.1",
         "date": "2021-06-24T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "a6b17c035b827ec996bb7c657a07c045da76db8df560899a275c5ba018a9182d77377e1ba58489f0a101780f82760767306140d9bbc1d9fc036dacfcdfbfec82",
+        "sha512sum": "4b518541908e12dc59fa8741aeb610a70b93b1f73828bfed6528cfc50d71a5632a3e83b430c8d0bd8564cbe6f5245ba269575828f2fc3afb1a1f87bdae5c1b2b",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/OP-18868-v4.0-rc/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -61,9 +61,9 @@
         "version": "1.0.1",
         "date": "2021-07-20T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "1863ca73cb8d8fd4058e03d08226f0bd99bc220a598addcdd333ab412be032b0184f9e50aa84f766b00096a0129e9f9987895df9550218bceac8a4be4f7d70b1",
+        "sha512sum": "1c3d8619ee9ffadbe81205e716f89542bc8990d3150b88b3d226051ec638d307b91fb834c6bd04d73dff220682d89fa8a9e794f08f2ea85b714f360b5b40986b",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/OP-18868-v4.0-rc/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -76,9 +76,9 @@
         "version": "1.0.1",
         "date": "2021-07-25T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "4404e7722b6f571722a5611a25286f3e0acd0840b323179425f82260289a01808de2ab3180cea48291e57d6e6024c11a2011973b1e0890bc6b71e1d403b8409d",
+        "sha512sum": "4f34bf8c5bc9317ad4b6406430eabc2b46eff03ecaba2d71f5e003182b61b014a18d675e01b000888bd9291a5914920bc6bf5a233bee98d261f9795b623902dd",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/downloadOP-18868-v4.0-rc/policyPlugin-v1.0.1-SNAPSHOT.zip"
       },
       {
         "version": "1.0.2",
