@@ -33,7 +33,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "7537d0fc1348178c1d76d276bb930e1e03ba7c4d8fa9b7c38e624340551cacacdaceedf396377080cf0f89d6ef16398cf7a11a2af6682f790b31db0f667f68a3",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/OP-18868-v4.0-rc/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -63,7 +63,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "ae3e64ec5a9d288e988692eee6da5918390b54ad9a9b3b9b11a0d81368ecf7591043daac367051faec0f546721aeba96dd2cc819c00fe9b853549ef8f7e43900",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/OP-18868-v4.0-rc/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   },
@@ -78,7 +78,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "34b2fef7a57cc14f800a21eba3e78684916fc6c7045ef60b1158bae640d0311ee57d79e64d5653bd82e8944df466e3129b8f1b7866b465b37ca3547b4905aeea",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/OP-18868-v4.0-rc/policyPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v3.11-pipelinestage/policyPlugin-v1.0.1-SNAPSHOT.zip"
       },
       {
         "version": "1.0.2",
